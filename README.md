@@ -1,6 +1,8 @@
 # data-bootcamp-final-project
 
-This project was completed by insert full name here in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2019. 
+The Readme File 
+
+This project was completed by Dominique Zhao Yuanan in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2019. 
 
 I certify that the NYU Stern Honor Code applies to this project. In particular, I have: Clearly acknowledged the work and efforts of others when submitting written work as our own. The incorporation of the work of others–including but not limited to their ideas, data, creative expression, and direct quotations (which should be designated with quotation marks), or paraphrasing thereof– has been fully and appropriately referenced using notations both in the text and the bibliography. 
 
@@ -12,3 +14,6 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 Project Description
 This graphical report reflects how  privatization in emerging economies (BRIC) has evolved with the development of financial institutions overtime. Financial development indices are cross-examined with measures of privatization of public  infrastructures in 4 sectors: utilities, energy, transport and Information and Communications Technologies.
+
+Project Link
+https://github.com/YADZhao/data-bootcamp-final-project
